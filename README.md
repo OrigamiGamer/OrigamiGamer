@@ -1,4 +1,6 @@
 ### 📦 Most Used Languages:
+<img src="https://skillicons.dev/icons?i=cpp,js">
+
 - EPL
 - JavaScript
 - C++
