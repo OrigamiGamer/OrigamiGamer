@@ -5,7 +5,7 @@
 - JavaScript
 - C++
 
-### Visit Times (Since 2023/6/20)
+### Visited Times (Since 2023/6/20)
 ![](https://count.getloli.com/get/@:OrigamiGamer?theme=rule34)
 
 <!--
