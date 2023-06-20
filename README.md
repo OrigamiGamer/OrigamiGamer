@@ -5,6 +5,7 @@
 - JavaScript
 - C++
 
+![](https://count.getloli.com/get/@:OrigamiGamer?theme=rule34)
 
 <!--
 **OrigamiGamer/OrigamiGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
