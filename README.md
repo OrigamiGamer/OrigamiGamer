@@ -2,8 +2,9 @@
 <img src="https://skillicons.dev/icons?i=cpp,js">
 
 - EPL
-- JavaScript
 - C++
+- JavaScript
+
 
 ### Visited Times (Since 2023/6/20)
 ![](https://count.getloli.com/get/@:OrigamiGamer?theme=rule34)
