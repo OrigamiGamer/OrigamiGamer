@@ -1,11 +1,11 @@
-### 📦 Most Used Languages:
+### 🛠️ Most Used Languages:
 <img src="https://skillicons.dev/icons?i=cpp,js">
 
 - C++
 - EPL
 - JavaScript
 
-### 🛠️ Most Familiar Environments:
+### 📦 Most Familiar Environments:
 - Win32
 - Direct2D
 
