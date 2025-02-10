@@ -5,11 +5,11 @@
 - EPL
 - JavaScript
 
-### Most Familiar Environments:
+### 🛠️ Most Familiar Environments:
 - Win32
 - Direct2D
 
-### ⌛ Visited Times (Since 2023/6/20)
+### 🌙 Visited Times (Since 2023/6/20)
 ![](https://count.getloli.com/get/@:OrigamiGamer?theme=rule34)
 
 <!--
