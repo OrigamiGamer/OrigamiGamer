@@ -7,6 +7,7 @@
 - EPL(易语言)
 
 ### 📦 Most Familiar Environments:
+<img src="https://skillicons.dev/icons?i=godot">
 - Win32 Application Development
 - Direct2D Graphics API
 - Godot Game Development
