@@ -14,7 +14,7 @@
 - Direct2D Graphics API
 - Godot Game Development
 
-### Most Used IDE:
+### Most Used IDEs:
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio">
 
 - VSCode
