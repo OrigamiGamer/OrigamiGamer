@@ -1,5 +1,5 @@
 ### 🛠️ Most Used Languages:
-<img src="https://skillicons.dev/icons?i=cpp,js">
+<img src="https://skillicons.dev/icons?i=C++,C#,JS">
 
 - C++
 - C#
