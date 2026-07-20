@@ -3,6 +3,7 @@
 
 - C++
 - EPL
+- C#
 - JavaScript
 
 ### 📦 Most Familiar Environments:
