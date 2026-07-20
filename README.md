@@ -9,11 +9,12 @@
 
 ### 📦 Most Familiar Environments:
 
-- Win32 Application Development
+- VSCode
 - Direct2D Graphics API
+- Win32 Application Development
 - Godot Game Development
 
-<img src="https://skillicons.dev/icons?i=godot">
+<img src="https://skillicons.dev/icons?i=vscode,godot">
 
 ### 🌙 Visited Times (Since 2023/6/20)
 ![](https://count.getloli.com/get/@:OrigamiGamer?theme=rule34)
