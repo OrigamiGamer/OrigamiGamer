@@ -1,17 +1,19 @@
 ### 🛠️ Most Used Languages:
-<img src="https://skillicons.dev/icons?i=cpp,cs,js">
 
 - C++
 - C#
 - JavaScript
 - EPL(易语言)
 
+<img src="https://skillicons.dev/icons?i=cpp,cs,js">
+
 ### 📦 Most Familiar Environments:
-<img src="https://skillicons.dev/icons?i=godot">
 
 - Win32 Application Development
 - Direct2D Graphics API
 - Godot Game Development
+
+<img src="https://skillicons.dev/icons?i=godot">
 
 ### 🌙 Visited Times (Since 2023/6/20)
 ![](https://count.getloli.com/get/@:OrigamiGamer?theme=rule34)
