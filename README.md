@@ -2,14 +2,14 @@
 <img src="https://skillicons.dev/icons?i=cpp,js">
 
 - C++
-- EPL
 - C#
 - JavaScript
+- EPL(易语言)
 
 ### 📦 Most Familiar Environments:
-- Win32
-- Direct2D
-- Godot C#
+- Win32 Application Development
+- Direct2D Graphics API
+- Godot Game Development
 
 ### 🌙 Visited Times (Since 2023/6/20)
 ![](https://count.getloli.com/get/@:OrigamiGamer?theme=rule34)
