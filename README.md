@@ -1,8 +1,9 @@
 ### 🛠️ Most Used Languages:
-<img src="https://skillicons.dev/icons?i=cpp,cs,js">
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,js">
 
 - C++
 - C#
+- Python
 - JavaScript
 - EPL(易语言)
 
